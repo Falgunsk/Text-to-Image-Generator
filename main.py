@@ -19,7 +19,7 @@ st.title('Text to Image Generator with AI')  # Title of the webpage
 
 API_URL1 = "https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4"  # API calling
 API_URL2 = "https://api-inference.huggingface.co/models/hakurei/waifu-diffusion"  # Another API calling
-headers = {"Authorization": "Bearer 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"}  # API Token
+headers = {"Authorization": "Bearer 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"}  # API Token
 
 # Function to check if the image is correct
 def query(payload):
