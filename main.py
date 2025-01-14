@@ -1,7 +1,7 @@
-import os
-import streamlit as st
-import requests
 import io
+
+import requests
+import streamlit as st
 from PIL import Image
 
 st.set_page_config(page_title="Text to Image Generator", page_icon="🖼️", layout="wide")  # Setting page config
