@@ -18,7 +18,7 @@ Welcome to the **Text to Image Generator with AI**! This app lets you turn text 
 
 ## 🚀 Try the Deployed App
 🎯 Check out the live version of this project here:  
-[👉Deployed Streamlit App](text-to-image-generator-shivam.streamlit.app) 🌐
+[👉Deployed Streamlit App]( text-to-image-generator-shivam.streamlit.app ) 🌐
 
 ---
 
